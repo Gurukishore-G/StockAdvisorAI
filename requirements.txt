@@ -11,3 +11,4 @@ requests
 beautifulsoup4
 schedule
 python-telegram-bot==20.6
+setuptools

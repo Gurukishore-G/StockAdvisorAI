@@ -27,3 +27,26 @@ A GenAI-powered stock advisor that:
 ```bash
 pip install -r requirements.txt
 streamlit run streamlit_app.py
+```
+
+Deploy on Streamlit Cloud:
+Connect your GitHub repo
+
+Select streamlit_app.py as the main file
+
+Done!
+
+🤖 Telegram Bot
+Deploy on Render
+Fork this repo
+
+Create a Web Service
+
+Use render.yaml to configure build/start commands
+
+Set your environment variable:
+
+TELEGRAM_BOT_TOKEN
+
+🧠 Credits
+Built with OpenAI + Python + Streamlit + Telegram API.

@@ -1,0 +1,13 @@
+streamlit
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+pandas-ta
+nltk
+scikit-learn
+requests
+beautifulsoup4
+schedule
+python-telegram-bot==20.6
